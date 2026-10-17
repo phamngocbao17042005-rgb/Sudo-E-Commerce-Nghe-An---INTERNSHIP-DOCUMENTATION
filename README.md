@@ -21,7 +21,7 @@
 |:---:|---|---|---|---|---|
 | 1 | Dashboard Web - Python, Streamlit | CSV/Excel, dự kiến SQLite | Đang thiết kế | Cá nhân | https://github.com/gieminhh/Visualization-of-rainfall-and-flood-data-in-Central-Vietnam---Vietnam | 
 | 2 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
-| 3 | ASP.NET Core MVC và SQL Server | Chưa có | Đang thiết kế | — | Chưa có |
+| 3 | ASP.NET Core MVC và SQL Server | đang thiết kế | Đang thiết kế | — | Chưa có |
 | 4 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
 | 5 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
 | 6 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
